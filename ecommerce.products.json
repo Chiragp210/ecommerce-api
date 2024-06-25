@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6675ce574a5224bf8e07ab9f"
+  },
+  "title": "Realme 11 pro 5G",
+  "price": 25000,
+  "image": "https://www.jiomart.com/images/product/original/rv93adbgsl/realme-11-pro-5g-oasis-green-8gb-ram-256gb-rom-smartphone-product-images-orv93adbgsl-p602864526-0-202306301611.jpg?im=Resize=(420,420)",
+  "description": "Redmi Note 11, 11S, 11 5G, Poco M4 Pro, and M4 Pro 5G have a front made of Gorilla Glass 3 and a plastic back. in this phone 256GB ROM 8GB RAM availavble.Camara 100MP",
+  "category": "Mobile",
+  "__v": 0,
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "6676b461b1702461ee634d3b"
+  },
+  "title": "Samsung S21",
+  "price": 35000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQSGFZvutk0CFAqJk1IPDoOJ-1TUSrzKHW97SW4t_NQ&s",
+  "description": "Samsung Galaxy S21 5G ; Type, Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak) ; Size, 6.2 inches, 94.1 cm2 (~87.2% screen-to-body ratio) ; Resolution, 1080",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b59db1702461ee634d45"
+  },
+  "title": "Samsung M21",
+  "price": 33000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawSzZUd__NU0kAdsaWMrn1GkV4aEyNs7ORA&s",
+  "description": "Samsung Galaxy M21 5G ; Type, Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak) ; Size, 6.2 inches, 94.1 cm2 (~87.2% screen-to-body ratio) ; Resolution, 1080",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b65db1702461ee634d47"
+  },
+  "title": "Redmi 9",
+  "price": 33000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzKnsWA7JFsqr6jtY5PDyjd_LMbA19PGkn7bXGxwbpQ&s",
+  "description": "The Redmi 9 is a budget-friendly smartphone manufactured by Xiaomi, known for offering good performance at an affordable price point.",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b992b1702461ee634d4b"
+  },
+  "title": "Iphone 12",
+  "price": 95000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXtex4zHJa0-T3QRryRKf11oGNHLvVoIUf1VQKTOHKg&s",
+  "description": "The iPhone 12 is Apple's flagship smartphone featuring a 6.1-inch Super Retina XDR OLED display, A14 Bionic chip, dual 12 MP cameras with Night mode, and 5G connectivity. ",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676baa6b1702461ee634d4d"
+  },
+  "title": "Samsung S23",
+  "price": 25000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkmHrVrlcnuznBNrG6Z1-zH1eDY8OQIRnYNFLLczJ_w&s",
+  "description": "As of my last update in January 2022, there isn't a specific Samsung model known as the 'Samsung S23.' Samsung typically releases flagship smartphones under the Galaxy S series, such as the Galaxy S21, S22, etc.",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676be06b1702461ee634d51"
+  },
+  "title": "Redmi 10",
+  "price": 35000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzKnsWA7JFsqr6jtY5PDyjd_LMbA19PGkn7bXGxwbpQ&s",
+  "description": "It usually comes with a 6.5-inch IPS LCD display with a resolution of 1080 x 2400 pixels. The screen often includes a punch-hole cutout for the front camera",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676be84b1702461ee634d53"
+  },
+  "title": "Samsung S25",
+  "price": 35000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGaKzqs-Nqg4K4JaPkKi1H3nADqd9FTyvWpdRbcoWXQ&s",
+  "description": "As of my last update in January 2022, there isn't a specific Samsung model known as the 'Samsung S25.' Samsung typically releases flagship smartphones under the Galaxy S series, such as the Galaxy S21, S22, etc. ",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bf09b1702461ee634d55"
+  },
+  "title": "Iphone 13",
+  "price": 95000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXtex4zHJa0-T3QRryRKf11oGNHLvVoIUf1VQKTOHKg&s",
+  "description": "Display: It features a 6.1-inch Super Retina XDR OLED display with a resolution of 2532 x 1170 pixels.\n",
+  "category": "Mobile",
+  "quantity": 1,
+  "__v": 0
+}]
